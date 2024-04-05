@@ -50,3 +50,5 @@ if __name__ == "__main__":
 
     print(bst.search(5))  # 输出：True
     print(bst.search(12))  # 输出：False
+
+
