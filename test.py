@@ -9,3 +9,4 @@ def generate_random_matrix(rows, cols):
 rows = cols = 3
 random_matrix = generate_random_matrix(rows, cols)
 print(random_matrix)
+print("done")
